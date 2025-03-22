@@ -18,7 +18,7 @@ Introdução a Bibliotecas Úteis
 ```
 
 ## 🎯 Objetivo
-Fornecer uma base sólida para quem deseja começar no mundo da programação com Python, facilitando o aprendizado por meio de explicações claras e exercícios práticos.
+Fornecer uma base sólida para quem deseja começar no mundo da programação com Python, facilitando o aprendizado por meio de exercícios práticos.
 
 ## 📂 Como Usar
-- Ideal para iniciantes que desejam aprender a linguagem do zero, abordando desde conceitos fundamentais até a criação de pequenos projetos práticos.
+- Ideal para iniciantes, criação de pequenos projetos práticos.
